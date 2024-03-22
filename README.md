@@ -1,5 +1,7 @@
 # Grafana Compare Query Datasource
 
+Migrate to React version support Grafana 10 and above
+
 ---
 
 [中文文档](https://github.com/AutohomeCorp/autohome-compareQueries-datasource/blob/master/README_zh.md)
